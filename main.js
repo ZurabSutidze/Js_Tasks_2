@@ -1,13 +1,10 @@
 /////////////////////////      1       ///////////////////////
 
-
 // function ObjEntries(obj) {
 //     return Object.entries(obj)
 // }
 
-
 /////////////////////////      2       ///////////////////////
-
 
 // function sameKeys(obj1, obj2) {
 //     const keys1 = Object.keys(obj1);
@@ -21,15 +18,11 @@
 //     return true;
 // }
 
-
-
 /////////////////////////      3      ///////////////////////
-
 
 // function MergeObjs(...objs) {
 //     return Object.assign({} , ...objs)
 // }
-
 
 /////////////////////////      4      ///////////////////////
 
@@ -37,8 +30,6 @@
 //     delete object[`${key}`]
 //     return object
 // }
-
-
 
 /////////////////////////      5     ///////////////////////
 

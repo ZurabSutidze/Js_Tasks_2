@@ -64,4 +64,4 @@
 //     isSquare() {
 //         return this.width === this.height;
 //       }
-///   }
+///}
